@@ -2,7 +2,7 @@ body, html {
 	font-family: 'Open Sans', serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
-	color: #777;
+	color: black;
 	font-weight: 400;
 	width: 100% !important;
 	height: 100% !important;
@@ -146,9 +146,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .btn-custom {
 	text-transform: uppercase;
-	color: #777;
+	color: black;
 	background-color: transparent;
-	border: 2px solid #777;
+	border: 2px solid black;
 	padding: 14px 20px;
 	margin: 0;
 	font-size: 15px;
@@ -322,7 +322,7 @@ header .intro-text {
 }
 #contact .contact-item p {
 	font-size: 15px;
-	color: #777;
+	color: black;
 }
 #contact .section-title {
 	margin-top: 60px;

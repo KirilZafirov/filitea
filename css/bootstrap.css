@@ -1219,7 +1219,7 @@ h6 .small,
 .h6 .small {
   font-weight: normal;
   line-height: 1;
-  color: #777;
+  color: black;
 }
 h1,
 .h1,
@@ -1460,7 +1460,7 @@ dd {
 abbr[title],
 abbr[data-original-title] {
   cursor: help;
-  border-bottom: 1px dotted #777;
+  border-bottom: 1px dotted black;
 }
 .initialism {
   font-size: 90%;
@@ -1483,7 +1483,7 @@ blockquote .small {
   display: block;
   font-size: 80%;
   line-height: 1.42857143;
-  color: #777;
+  color: black;
 }
 blockquote footer:before,
 blockquote small:before,
@@ -2246,7 +2246,7 @@ table {
 caption {
   padding-top: 8px;
   padding-bottom: 8px;
-  color: #777;
+  color: black;
   text-align: left;
 }
 th {
@@ -3337,7 +3337,7 @@ fieldset[disabled] .btn-link {
 fieldset[disabled] .btn-link:hover,
 .btn-link[disabled]:focus,
 fieldset[disabled] .btn-link:focus {
-  color: #777;
+  color: black;
   text-decoration: none;
 }
 .btn-lg,
@@ -3393,11 +3393,11 @@ tbody.collapse.in {
   background-color: #eee;
 }
 .nav > li.disabled > a {
-  color: #777;
+  color: black;
 }
 .nav > li.disabled > a:hover,
 .nav > li.disabled > a:focus {
-  color: #777;
+  color: black;
   text-decoration: none;
   cursor: not-allowed;
   background-color: transparent;
@@ -3771,7 +3771,7 @@ tbody.collapse.in {
   border-color: #e7e7e7;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #777;
+  color: black;
 }
 .navbar-default .navbar-toggle {
   border-color: #ddd;
